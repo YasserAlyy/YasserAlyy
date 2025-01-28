@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasserAlyy
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning css and javascript
+- 🌱 I’m currently a shopify developer
 - 💞️ I’m looking to collaborate on working from home
 - 📫 How to reach me ?
 
